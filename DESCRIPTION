@@ -7,7 +7,7 @@ Depends: R (>= 3.5.0)
 Imports: graphics, Matrix, methods, splines, stats, utils
 LazyData: Yes
 LazyDataCompression: xz
-ByteCompile: Yes
+ByteCompile: No
 Authors@R: c(person(c("Terry", "M"), "Therneau",
                     email="therneau.terry@mayo.edu",
 	            role=c("aut", "cre")),
